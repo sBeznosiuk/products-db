@@ -1,4 +1,5 @@
-[
+{
+    "products": [
     {
 	"id": 1,
 	"imageUrl": "some url here",
@@ -99,3 +100,4 @@
 }]
 }
 ]
+}
