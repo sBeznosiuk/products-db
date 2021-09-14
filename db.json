@@ -8,6 +8,6 @@
     { "id": 1, "description: ": "some comment", "productId": 1, "date": "14:00 22.08.2021" },
     { "id": 2, "description: ": "some comment", "productId": 2, "date": "14:00 22.08.2021" },
     { "id": 3, "description: ": "some comment", "productId": 3, "date": "14:00 22.08.2021" },
-    { "id": 4, "description: ": "some comment", "productId": 4, "date": "14:00 22.08.2021" }
+    { "id": 4, "description: ": "some comment", "productId": 3, "date": "14:00 22.08.2021" }
   ]
 }
