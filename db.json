@@ -1,8 +1,8 @@
 {
    "products": [
     { "id": 1, "name": "hhhhhhh", "count": 4, "weight": "200g", "imageUrl": "https://static4.depositphotos.com/1000765/295/i/600/depositphotos_2959308-stock-photo-3d-small-positive-symbol.jpg", "descr": "LoremLoremLoremdggahgha" }, 
-    { "id": 2, "name": "nnnnnnn", "count": 4, "weight": "200g", "imageUrl": "https://static4.depositphotos.com/1000765/295/i/600/depositphotos_2959308-stock-photo-3d-small-positive-symbol.jpg", "descr": "LoremLoremLoremssssss" },
-    { "id": 3, "name": "aaaaaaa", "count": 4, "weight": "200g", "imageUrl": "https://static4.depositphotos.com/1000765/295/i/600/depositphotos_2959308-stock-photo-3d-small-positive-symbol.jpg", "descr": "LoremLoremLoremasdasd" }
+    { "id": 2, "name": "nnnnnnn", "count": 2, "weight": "200g", "imageUrl": "https://static4.depositphotos.com/1000765/295/i/600/depositphotos_2959308-stock-photo-3d-small-positive-symbol.jpg", "descr": "LoremLoremLoremssssss" },
+    { "id": 3, "name": "aaaaaaa", "count": 10, "weight": "200g", "imageUrl": "https://static4.depositphotos.com/1000765/295/i/600/depositphotos_2959308-stock-photo-3d-small-positive-symbol.jpg", "descr": "LoremLoremLoremasdasd" }
   ],
   "comments": [
     { "id": 1, "description: ": "some comment", "productId": 1, "date": "14:00 22.08.2021" },
