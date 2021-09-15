@@ -1,22 +1,22 @@
 {
    "products": [
     { "id": 1, "name": "hhhhhhh", "count": 4, "weight": "200g", "imageUrl": "https://static4.depositphotos.com/1000765/295/i/600/depositphotos_2959308-stock-photo-3d-small-positive-symbol.jpg", "descr": "LoremLoremLoremdggahgha", "comments": [
-    { "id": 1, "description: ": "some commentdfhdfh", "productId": 1, "date": "14:00 22.08.2021" },
-    { "id": 2, "description: ": "some commentdfhdfhdfhdfh", "productId": 2, "date": "14:00 22.08.2021" },
-    { "id": 3, "description: ": "some commentdfhdfhdhsdh", "productId": 3, "date": "14:00 22.08.2021" },
-    { "id": 4, "description: ": "some commentasADASF", "productId": 3, "date": "14:00 22.08.2021" }
+    { "id": 1, "description": "some commentdfhdfh", "productId": 1, "date": "14:00 22.08.2021" },
+    { "id": 2, "description": "some commentdfhdfhdfhdfh", "productId": 2, "date": "14:00 22.08.2021" },
+    { "id": 3, "description": "some commentdfhdfhdhsdh", "productId": 3, "date": "14:00 22.08.2021" },
+    { "id": 4, "description": "some commentasADASF", "productId": 3, "date": "14:00 22.08.2021" }
   ]}, 
     { "id": 2, "name": "nnnnnnn", "count": 2, "weight": "200g", "imageUrl": "https://static4.depositphotos.com/1000765/295/i/600/depositphotos_2959308-stock-photo-3d-small-positive-symbol.jpg", "descr": "LoremLoremLoremssssss", "comments": [
-    { "id": 1, "description: ": "some commenthdfgh", "productId": 1, "date": "14:00 22.08.2021" },
-    { "id": 2, "description: ": "some commentdfhdfh", "productId": 2, "date": "14:00 22.08.2021" },
-    { "id": 3, "description: ": "some commentdfhdfh", "productId": 3, "date": "14:00 22.08.2021" },
-    { "id": 4, "description: ": "some commentdfhdfhdfh", "productId": 3, "date": "14:00 22.08.2021" }
+    { "id": 1, "description": "some commenthdfgh", "productId": 1, "date": "14:00 22.08.2021" },
+    { "id": 2, "description": "some commentdfhdfh", "productId": 2, "date": "14:00 22.08.2021" },
+    { "id": 3, "description": "some commentdfhdfh", "productId": 3, "date": "14:00 22.08.2021" },
+    { "id": 4, "description": "some commentdfhdfhdfh", "productId": 3, "date": "14:00 22.08.2021" }
   ] },
     { "id": 3, "name": "aaaaaaa", "count": 10, "weight": "200g", "imageUrl": "https://static4.depositphotos.com/1000765/295/i/600/depositphotos_2959308-stock-photo-3d-small-positive-symbol.jpg", "descr": "LoremLoremLoremasdasd", "comments": [
-    { "id": 1, "description: ": "some commentasd", "productId": 1, "date": "14:00 22.08.2021" },
-    { "id": 2, "description: ": "some commentaaaa", "productId": 2, "date": "14:00 22.08.2021" },
-    { "id": 3, "description: ": "some commentggg", "productId": 3, "date": "14:00 22.08.2021" },
-    { "id": 4, "description: ": "some commentsdasd", "productId": 3, "date": "14:00 22.08.2021" }
+    { "id": 1, "description": "some commentasd", "productId": 1, "date": "14:00 22.08.2021" },
+    { "id": 2, "description": "some commentaaaa", "productId": 2, "date": "14:00 22.08.2021" },
+    { "id": 3, "description": "some commentggg", "productId": 3, "date": "14:00 22.08.2021" },
+    { "id": 4, "description": "some commentsdasd", "productId": 3, "date": "14:00 22.08.2021" }
   ] }
   ]
 }
